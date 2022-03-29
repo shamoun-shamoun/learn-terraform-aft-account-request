@@ -5,7 +5,7 @@ control_tower_parameters = {
  AccountEmail              = "shamoun.shamoun+demo-account@ordina.be"
  AccountName               = "demo"
  ManagedOrganizationalUnit = "Sandbox"
- SSOUserEmail              = "demo"
+ SSOUserEmail              = "shamoun.shamoun+demo-account@ordina.be"
  SSOUserFirstName          = "demo"
  SSOUserLastName           = "account"
 }
