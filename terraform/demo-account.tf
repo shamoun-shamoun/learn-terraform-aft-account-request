@@ -11,7 +11,7 @@ control_tower_parameters = {
 }
 
 account_tags = {
- "env"="devops"
+ "afdeling"="IT"
 }
 
 change_management_parameters = {
