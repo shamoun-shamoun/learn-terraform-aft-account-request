@@ -11,7 +11,7 @@ control_tower_parameters = {
 }
 
 account_tags = {
- "Group"="demo-accounts"
+ "env"="devops"
 }
 
 change_management_parameters = {
