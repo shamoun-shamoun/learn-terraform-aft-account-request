@@ -11,7 +11,7 @@ control_tower_parameters = {
 }
 
 account_tags = {
- "afdeling"="IT"
+ "afdeling"="BPS"
 }
 
 change_management_parameters = {
