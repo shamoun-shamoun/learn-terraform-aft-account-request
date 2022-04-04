@@ -3,11 +3,11 @@ source = "./modules/aft-account-request"
 
 control_tower_parameters = {
  AccountEmail              = "shamoun.shamoun+demo-account@ordina.be"
- AccountName               = "demo"
+ AccountName               = "Networking Account"
  ManagedOrganizationalUnit = "Sandbox"
  SSOUserEmail              = "shamoun.shamoun+demo-account@ordina.be"
- SSOUserFirstName          = "demo"
- SSOUserLastName           = "demo"
+ SSOUserFirstName          = "Networking"
+ SSOUserLastName           = "Account"
 }
 
 account_tags = {
