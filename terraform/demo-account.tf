@@ -1,4 +1,4 @@
-module "sandbox" {
+module "demo-account"{
 source = "./modules/aft-account-request"
 
 control_tower_parameters = {
@@ -11,12 +11,12 @@ control_tower_parameters = {
 }
 
 account_tags = {
- "afdeling"="BPS"
+ "afdeling"="Approvel"
 }
 
 change_management_parameters = {
  change_requested_by = "Shamoun"
- change_reason       = "provison new account"
+ change_reason       = "test codepipeline approvel"
 }
 
 custom_fields = {
