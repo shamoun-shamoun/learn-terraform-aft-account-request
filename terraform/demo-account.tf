@@ -11,7 +11,7 @@ control_tower_parameters = {
 }
 
 account_tags = {
- "afdeling"="Approvel"
+ "afdeling"="Network admins"
 }
 
 change_management_parameters = {
