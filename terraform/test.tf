@@ -2,30 +2,30 @@ module "test" {
     source = "./modules/aft-account-request"
 
     control_tower_parameters = {
-      AccountEmail              = "dfsad"
-      AccountName               = "oij"
-      ManagedOrganizationalUnit = "ji"
-      SSOUserEmail              = "jio"
-      SSOUserFirstName          = "hoih"
-      SSOUserLastName           = "oih"
+      AccountEmail              = "eqw"
+      AccountName               = "das"
+      ManagedOrganizationalUnit = "eqw"
+      SSOUserEmail              = "e"
+      SSOUserFirstName          = "qwweq"
+      SSOUserLastName           = "eqe"
     } 
 
 
     account_tags = {
-       "h" ="oih"
+       "qw" ="eqw"
     } 
 
 
     change_management_parameters = {
-       change_requested_by = "oh"
-       change_reason       = "oh"
+       change_requested_by = "eqw"
+       change_reason       = "eqw"
     } 
 
 
     custom_fields = {
-       group = "h"
+       group = "e"
      } 
 
 
-    account_customizations_name = "hoh"
+    account_customizations_name = "qwe"
     }
