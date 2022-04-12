@@ -2,30 +2,30 @@ module "testqwe" {
     source = "./modules/aft-account-request"
 
     control_tower_parameters = {
-      AccountEmail              = "asf"
-      AccountName               = "qwe"
-      ManagedOrganizationalUnit = "ewqe"
-      SSOUserEmail              = "rqwr"
-      SSOUserFirstName          = "qwr"
-      SSOUserLastName           = "tet"
+      AccountEmail              = "eqw"
+      AccountName               = "eqwe"
+      ManagedOrganizationalUnit = "eqwe"
+      SSOUserEmail              = "qw"
+      SSOUserFirstName          = "eqw"
+      SSOUserLastName           = "eqw"
     } 
 
 
     account_tags = {
-       "eqtqw" ="we"
+       "eq" ="eq"
     } 
 
 
     change_management_parameters = {
-       change_requested_by = "qw"
-       change_reason       = "te"
+       change_requested_by = "ew"
+       change_reason       = "qeqw"
     } 
 
 
     custom_fields = {
-       group = "weqr"
+       group = "eqwew"
      } 
 
 
-    account_customizations_name = "wqeq"
+    account_customizations_name = "qeq"
     }
